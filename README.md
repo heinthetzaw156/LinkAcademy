@@ -1,0 +1,2 @@
+# LinkAcademy
+The primary aim of the project is to give a standard, and  affordable education to everyone who tends to learn and discover. The structure contains items easy and convenient for everyone to use,which indirectly means user-friendly. The unique strength of the website is the content organization which indirectly means that if you will feel motivated and self-paced by learning the contents from the website. All the videos are recorded from the individuals who has a broad knowledge on respective field.
